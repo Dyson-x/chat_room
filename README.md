@@ -16,7 +16,7 @@
 
 ```java
 //根据指定ip和端口号创建套接字并连接到远程服务器
-public Socket(String host,int post);
+public Socket (String host,int post);
 //返回此套接字的输入流
 public InputStream getInputStream();
 //返回此套接字的输出流
